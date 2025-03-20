@@ -6,15 +6,15 @@ class KodeBuah {
     getKodeBuah(buah) {
         // Table-driven approach for fruit codes
         const kodeBuahTable = {
-            "Mangga": "M01",
-            "Nanas": "N02",
-            "Semangka": "S03",
-            "Durian": "D04",
-            "Anggur": "A05",
-            "Manggis": "M06",
-            "Salak": "S07",
-            "Rambutan": "R08",
-            "Jeruk": "J09"
+            "Apel": "A00",
+            "Aprikot": "B00",
+            "Alpukat": "C00",
+            "Pisang": "D00",
+            "Paprika": "E00",
+            "Blackberry": "F00",
+            "Ceri": "H00",
+            "Kelapa": "I00",
+            "Jagung": "J00"
         };
         
         return kodeBuahTable[buah] || "Kode buah tidak ditemukan";
@@ -126,10 +126,10 @@ function main() {
     // C. Testing KodeBuah class
     console.log("=== Testing KodeBuah ===");
     const kodeBuah = new KodeBuah();
-    console.log("Kode Mangga:", kodeBuah.getKodeBuah("Mangga"));
-    console.log("Kode Salak:", kodeBuah.getKodeBuah("Salak"));
-    console.log("Kode Jeruk:", kodeBuah.getKodeBuah("Jeruk"));
-    console.log("Kode Nanas:", kodeBuah.getKodeBuah("Nanas"));
+    console.log("Kode Apel:", kodeBuah.getKodeBuah("Apel"));
+    console.log("Kode Ceri:", kodeBuah.getKodeBuah("Ceri"));
+    console.log("Kode Jagung:", kodeBuah.getKodeBuah("Jagung"));
+    console.log("Kode Alpukat:", kodeBuah.getKodeBuah("Alpukat"));
     
     console.log("\n=== Testing PosisiKarakterGame ===");
     // E. Simulating state changes for PosisiKarakterGame
@@ -139,4 +139,3 @@ function main() {
 
 // Run the program
 main();
-
