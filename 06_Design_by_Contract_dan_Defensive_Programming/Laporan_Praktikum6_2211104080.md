@@ -168,7 +168,7 @@ testSayaTube();
 
 ## 2. Output
 
-![Screenshot Output Jurnal Modul 6](img/ss_tugas_jurnal_modul6.png)
+![Screenshot Output Jurnal Modul 6](foto/ss_tugas_jurnal_modul6.png)
 
 ## 3. Penjelasan
 
@@ -283,7 +283,7 @@ main();
 ```
 
 ## Output
-![Screenshot Output Pendahuluan Modul 6](img/ss_tugas_pendahuluan_modul6.png)
+![Screenshot Output Pendahuluan Modul 6](foto/ss_tugas_pendahuluan_modul6.png)
 
 ## Penjelasan
 Pada program ini, dibuat kelas `SayaTubeVideo` yang merepresentasikan sebuah video dalam aplikasi SayaTube. Berikut adalah penjelasan utama:
