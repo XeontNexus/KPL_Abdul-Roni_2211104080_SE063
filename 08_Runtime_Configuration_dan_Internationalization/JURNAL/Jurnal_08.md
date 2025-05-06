@@ -246,5 +246,5 @@ const ask = (question) =>
 
 **Output**
 
-![Image](https://github.com/user-attachments/assets/0b2d5f97-2f5e-412f-9549-7bf826e1719f)
+![Image](https://github.com/user-attachments/assets/132f9e91-869c-46a2-b9f6-99b60334f9d0)\
 ---
