@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\tpmodul13_2211104065\tpmodul13_2211104065\bin\Debug\tpmodul13_2211104065.exe.config
+C:\Users\user\source\repos\tpmodul13_2211104065\tpmodul13_2211104065\bin\Debug\tpmodul13_2211104065.exe
+C:\Users\user\source\repos\tpmodul13_2211104065\tpmodul13_2211104065\bin\Debug\tpmodul13_2211104065.pdb
+C:\Users\user\source\repos\tpmodul13_2211104065\tpmodul13_2211104065\obj\Debug\tpmodul13_2211104065.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\tpmodul13_2211104065\tpmodul13_2211104065\obj\Debug\tpmodul13_2211104065.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tpmodul13_2211104065\tpmodul13_2211104065\obj\Debug\tpmodul13_2211104065.exe
+C:\Users\user\source\repos\tpmodul13_2211104065\tpmodul13_2211104065\obj\Debug\tpmodul13_2211104065.pdb
